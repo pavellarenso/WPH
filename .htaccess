@@ -10,3 +10,6 @@ RewriteCond %{HTTPS} on
 RewriteCond %{HTTP_HOST} ^webparkhost\.ru$ [NC]
 RewriteRule ^(.*)$ https://www.webparkhost.ru/$1 [R=301,L]
 
+
+
+
