@@ -12,4 +12,7 @@ RewriteRule ^(.*)$ https://www.webparkhost.ru/$1 [R=301,L]
 
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> a303f83beb11390a1be01b21836da00bfc2f19b3
