@@ -9,10 +9,3 @@ RewriteCond %{SERVER_PORT} ^80$ [OR]
 RewriteCond %{HTTPS} on
 RewriteCond %{HTTP_HOST} ^webparkhost\.ru$ [NC]
 RewriteRule ^(.*)$ https://www.webparkhost.ru/$1 [R=301,L]
-
-
-
-<<<<<<< HEAD
-
-=======
->>>>>>> a303f83beb11390a1be01b21836da00bfc2f19b3
